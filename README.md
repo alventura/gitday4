@@ -1,2 +1,2 @@
 # gitday4
-hello from branch1day4 /
+hello from master branch day4 /
