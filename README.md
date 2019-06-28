@@ -1,5 +1,2 @@
-# gitday4
 
-
-second branchday4 ..now in branch3 or third branch, trying to add text to master
-
+# gitday4  hello from first brach... the previous text should be deleted(from third)
